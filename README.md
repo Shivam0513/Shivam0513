@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Shivam Kumar
 
-<!--
-**Shivam0513/Shivam0513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech CSE(AI + ML) Student at **Vidya College of Engineering**  
+💻 Passionate about building intelligent solutions using **Python**, **Java**, and **AI**  
+📊 Exploring the world of **Data Visualization** with **Power BI**  
+🚀 Always learning, always coding
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+
+- 💻 Languages: Python, Java, 
+- 🤖 AI/ML: NumPy, Pandas
+- 📊 Data Tools: Power BI, Excel, SQL
+- 🌐 Web: HTML, JavaScript (Basics)
+- ⚙️ Others: Git, GitHub, VS Code
+
+---
+
+### 📈 GitHub Stats
+
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam-kumar-29961a265&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/shivam-kumar-29961a265)
+- 📍 Meerut, Uttar Pradesh, India
+- 💬 Open to internships, collaborations, and learning opportunities
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.”_ 😄
