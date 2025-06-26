@@ -19,7 +19,7 @@
 
 ### 📈 GitHub Stats
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam-kumar-29961a265&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam0513&show_icons=true&theme=radical)
 
 ---
 
